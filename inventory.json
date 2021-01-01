@@ -1,0 +1,112 @@
+[
+  {
+    "name": "Optimum Nutrition 100% Gold Standard Whey",
+    "serving_size": 30.4,
+    "servings_available": 74.0,
+    "nutrients": {
+      "fat": 3.8,
+      "carbs": 1.2,
+      "protein": 30.0
+    }
+  },
+  {
+    "name": "Horizon Chocolate milk half gallon",
+    "serving_size": 240.0,
+    "servings_available": 8.0,
+    "nutrients": {
+      "fat": 3.0,
+      "carbs": 28.0,
+      "protein": 8.0
+    }
+  },
+  {
+    "name": "Bread Alone 22oz Organic Nine Mixed Grain",
+    "serving_size": 35.0,
+    "servings_available": 18.0,
+    "nutrients": {
+      "fat": 0.0,
+      "carbs": 18.0,
+      "protein": 3.0
+    }
+  },
+  {
+    "name": "Kashi Original cereal",
+    "serving_size": 58.0,
+    "servings_available": 6.0,
+    "nutrients": {
+      "fat": 2.0,
+      "carbs": 40.0,
+      "protein": 12.0
+    }
+  },
+  {
+    "name": "Horizon Organic Whole Milk",
+    "serving_size": 240.0,
+    "servings_available": 16.0,
+    "nutrients": {
+      "fat": 8.0,
+      "carbs": 13.0,
+      "protein": 8.0
+    }
+  },
+  {
+    "name": "Quaker State Jumbo eggs",
+    "serving_size": 63.0,
+    "servings_available": 12.0,
+    "nutrients": {
+      "fat": 6.0,
+      "carbs": 0.0,
+      "protein": 8.0
+    }
+  },
+  {
+    "name": "Skippy 40oz natural creamy PB",
+    "serving_size": 32.0,
+    "servings_available": 35.0,
+    "nutrients": {
+      "fat": 16.0,
+      "carbs": 6.0,
+      "protein": 7.0
+    }
+  },
+  {
+    "name": "Craft Singles Cheddar 16ct",
+    "serving_size": 21.0,
+    "servings_available": 16.0,
+    "nutrients": {
+      "fat": 4.0,
+      "carbs": 60.0,
+      "protein": 4.0
+    }
+  },
+  {
+    "name": "Kerrygold Irish butter",
+    "serving_size": 14.0,
+    "servings_available": 16.0,
+    "nutrients": {
+      "fat": 11.0,
+      "carbs": 0.0,
+      "protein": 0.0
+    }
+  },
+  {
+    "name": "Banana",
+    "serving_size": 100.0,
+    "servings_available": 4.5,
+    "nutrients": {
+      "fat": 0.3,
+      "carbs": 23.0,
+      "protein": 1.1
+    }
+  },
+  {
+    "name": "Sourdough bread",
+    "serving_size": 35.0,
+    "servings_available": 16.0,
+    "nutrients": {
+      "fat": 0.5,
+      "carbs": 18.0,
+      "protein": 3.0
+    }
+  }
+]
